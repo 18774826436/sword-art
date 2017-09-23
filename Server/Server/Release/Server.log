@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Server.cpp
+  ServerDlg.cpp
+  ServerSocket.cpp
+  SessionSocket.cpp
+  正在生成代码
+  All 217 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Server.vcxproj -> D:\Users\le\Desktop\Server\Release\Server.exe
+  Server.vcxproj -> D:\Users\le\Desktop\Server\Release\Server.pdb (Full PDB)
